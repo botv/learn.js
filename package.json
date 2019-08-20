@@ -1,0 +1,22 @@
+{
+  "name": "learn.js",
+  "version": "1.0.0",
+  "description": "Learn JS by building basic Chrome extensions",
+  "main": "title.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/botv/learn.js.git"
+  },
+  "author": "Ben Botvinick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/botv/learn.js/issues"
+  },
+  "homepage": "https://github.com/botv/learn.js#readme",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
