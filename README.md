@@ -1,4 +1,4 @@
-![Learn.js Logo](https://github.com/botv/learn.js/master/title.png)
+![Learn.js Logo](https://github.com/botv/learn.js/raw/master/title.png)
 
 # Learn.js
 > Learn JS by building basic Chrome extensions
