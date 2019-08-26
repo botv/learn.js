@@ -30,7 +30,3 @@ A collection of guides to building Chrome extensions. These tutorials make use o
 
 ### Samples
 Sample projects to download and reference. Browse samples and download zipped project code [here](https://developer.chrome.com/extensions/samples).
-
-### Code
-These GitHub repositories will help you become familiar with how Chrome extensions are organized. If you have a bug or an idea for a project, consult these repositories.
-- 
