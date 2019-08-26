@@ -2,8 +2,6 @@
 > Learn JS by building basic Chrome extensions
 
 A collection of tutorials, guides, and resources on how to learn JavaScript by building basic Chrome extensions. The fastest, best, and most applicable way of learning how to code for web.
-
-Author: [Ben Botvinick](https://benbotvinick.com).
 <hr/>
 
 ## Introduction
